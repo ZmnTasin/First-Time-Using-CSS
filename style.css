@@ -1,0 +1,144 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: monospace;
+  font-size: 1.25rem;
+  font-family: 'Roboto Condensed';
+}
+
+h2 {
+  font-family: 'Montserrat';
+  color: #9d33ff;
+}
+
+h3 {
+  font-family: 'Montserrat';
+  color: #333333;
+}
+
+.hirefreelance {
+  color: #00FFE5;
+}
+
+.footer-link {
+  color: #b3b3b3;
+  font-size: 90%;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #00FFE5;
+}
+.first-view {
+  padding-top: 90px;
+  background-color: white;
+  position: relative;
+  box-shadow: inset 0 -5px 15px -6px black;
+}
+
+.imtasin {
+  font-family: 'Montserrat';
+  margin: 0;
+  color: #2b0057;
+  font-size: 2.5rem;
+  line-height: 2;
+}
+
+.webdevanddesigner {
+  margin-top: 0;
+}
+
+.Developer-top {
+  font-weight: bold;
+}
+
+.Designer-top {
+  font-weight: bold;
+}
+
+.myphoto {
+  position: relative;
+  padding-top: 50px;
+  top: 5px;
+}
+
+.shape1 {
+  position: absolute;
+  left: 300px;
+  top: 570px;
+  width: 15%;
+}
+
+.shape2 {
+  position: absolute;
+  right: 300px;
+  top: 282px;
+  width: 14%;
+}
+
+.circularphoto {
+  margin: 100px 0 20px 0;
+  width: 25%;
+}
+
+.profile {
+  margin: auto 20%;
+}
+
+.skill-row {
+  margin: 100px 20%;
+  text-align: left;
+}
+
+p {
+  line-height: 2;
+  color: #424242;
+}
+
+.logodesign {
+  width: 14%;
+  float: left;
+  margin-right: 30px;
+}
+
+/* .logotext {
+  text-align: right;
+} */
+
+.webdesign {
+  width: 14%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  border-color: #c88cff;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 20px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.getin-touch {
+  color: #8000ff;
+}
+.contact-me {
+  background-color: #171717;
+  padding: 10px 0 35px 0;
+}
+.say-hi {
+  color: #c2c2c2;
+}
+
+.bottom-container {
+  background-color: black;
+  margin-bottom: 0;
+  padding: 20px 0;
+  word-spacing: 20px;
+}
+.copyright-text {
+  margin-bottom: 0;
+  word-spacing: normal;
+}
