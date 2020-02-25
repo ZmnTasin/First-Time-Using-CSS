@@ -1,0 +1,22 @@
+<svg id="contactbutton" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="177" height="50" viewBox="0 0 177 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        font-size: 16px;
+        fill: #fff;
+        font-family: Montserrat;
+        font-weight: 500;
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="25" x2="177" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="-0.11" stop-color="#00fff6"/>
+      <stop offset="1.11" stop-color="#9000ff"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" width="177" height="50" rx="25" ry="25"/>
+  <text id="CONTACT_ME" data-name="CONTACT ME" class="cls-2" x="34.234" y="31.464">CONTACT ME</text>
+</svg>
